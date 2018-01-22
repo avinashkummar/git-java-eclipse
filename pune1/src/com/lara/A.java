@@ -8,6 +8,7 @@ public class A {
 	char c='b';
 	char s1=c;
 	System.out.println(s1);
+	System.out.println("avinaash kumar singh");
 
 	}
 
